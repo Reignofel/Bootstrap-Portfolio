@@ -1,0 +1,157 @@
+.container {
+	background-image: url(../images/sayagata-400px.png);
+}
+
+#linkbar {
+	vertical-align:middle;
+}
+
+#logo {
+    margin: -16px 0px 0px -15px;
+    background-color: #4aaaa5;
+    color: #ffffff;
+    padding: 8px;
+    border-radius: 2px 2px 2px 2px;
+ }
+
+#whiteBar {
+	background-color: #ffffff;
+	border-bottom: 1px solid #cccccc;
+	width: 100%;
+	height: 70px;
+	overflow: hidden;
+}
+
+.title {
+	color:#4aaaa5;
+	font-weight: normal;
+	border-bottom: 2px solid #c0c0c0;
+}
+
+#cat{
+	width: 270px
+	height:270px;
+}
+
+#tealBar {
+	width:100%;
+	height: 4px;
+	background-color:#4aaaa5;
+}
+
+
+#grayBar {
+	width:100%;
+	height: 70px;
+	background-color:#555555;
+}
+
+.bannerFoot {
+	color: white;
+	text-align: center;
+	padding-top: 20px;
+}
+
+.social {
+	padding: 0px 10px 0px 10px;
+}
+
+a:link, a:visited {
+	color:#777777;
+	text-decoration:none;
+}
+
+a:hover, a:active {
+	color:red;
+	font-weight: bolder;
+	text-shadow: 2px;
+}
+
+ul {
+	margin: 0px;
+	list-style-type: none;
+	padding: 2px;
+}
+
+
+li {
+	font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	color: #777777;
+	font-size: 13px;
+	display: inline;
+	padding: 0px 10px 0px 10px;
+}
+
+.banner {
+	width: 207px;
+	margin: 70px 0px 0px 0px;
+}
+
+.bar {
+	background-color:#4aaaa5;
+	width: 210px;	
+}
+
+
+#hangman {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/hang.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+
+#rpg {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/rpg.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#trivia {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/trivia.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#rutgers {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/rutgers.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#rock {
+	width: 210px;
+	height: 106px;
+	margin: 20px;
+	background-image: url(../images/rockpaper.jpg);
+	overflow: hidden;
+	float:left;
+}
+
+#formcontainer {	
+	margin: 0px 0px 0px 10px;	
+}
+#button {
+	margin: 10px;
+}
+
+ h3{
+    color: #ffffff;
+    font-size: small;
+    font-weight: lighter;
+    padding: 5px;
+    text-align: center;
+}
+
+/* here */
