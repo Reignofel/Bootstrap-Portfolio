@@ -28,10 +28,6 @@
 	border-bottom: 2px solid #c0c0c0;
 }
 
-#cat{
-	width: 270px
-	height:270px;
-}
 
 #tealBar {
 	width:100%;
@@ -46,7 +42,7 @@
 	background-color:#555555;
 }
 
-.bannerFoot {
+.bannerfooter {
 	color: white;
 	text-align: center;
 	padding-top: 20px;
@@ -144,6 +140,7 @@ li {
 }
 #button {
 	margin: 10px;
+	margin-bottom: 40px;
 }
 
  h3{
@@ -154,4 +151,6 @@ li {
     text-align: center;
 }
 
-/* here */
+ footer{
+ 	overflow: auto;
+ }
